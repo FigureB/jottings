@@ -1,0 +1,2 @@
+# jottings
+Store study notes
