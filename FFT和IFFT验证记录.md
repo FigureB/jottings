@@ -162,14 +162,3 @@ stem(freq, abs(y3_conv)/N*2);
 title('图7 conv'),xlabel('frequency'),ylabel('幅度')
 hold off
 ```
-
-
-
-## vavido FFT IP核使用记录
-
-IP核配置如下：
-
-![image-20230706153146456](C:\Users\zr114\AppData\Roaming\Typora\typora-user-images\image-20230706153146456.png)
-
-如果勾选 Run Time Configurable Transform Length，则Transform Length 需要在8~512之间，不勾选则固定为设置值512
-
